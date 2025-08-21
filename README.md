@@ -59,3 +59,17 @@ A well-designed booking system reduces friction, increases conversion, and impro
 - **Accessibility:** Contrast & size choices improve readability.
 - **Handoff:** Designers ↔ Devs collaborate with fewer mistakes.
 - **Branding:** Visual identity remains coherent across features.
+
+## Project Roles and Responsibilities
+
+- **Product Owner** — Defines vision, prioritizes features (backlog), accepts completed work.
+- **Scrum Master** — Facilitates ceremonies, removes blockers, improves team process.
+- **Project Manager** — Plans timeline/scope, coordinates stakeholders, tracks milestones.
+- **Designer (UI/UX)** — Produces Figma mockups, design tokens, prototypes, accessibility checks.
+- **Frontend Developer(s)** — Builds React components, routing, state mgmt, integrates APIs, tests UI.
+- **Backend Developer(s)** — Designs APIs, database schema, authentication, validation, tests services.
+- **QA/Tester** — Writes test plans, runs manual/automated tests, tracks defects.
+- **DevOps Engineer** — CI/CD pipelines, environments, monitoring, deployments.
+
+> **Working solo**
+
