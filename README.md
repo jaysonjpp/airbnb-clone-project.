@@ -39,3 +39,23 @@ This project is a full-stack clone of the AirBnB platform. Users can browse list
 
 ### Importance of User-Friendly Design
 A well-designed booking system reduces friction, increases conversion, and improves satisfaction. Clear navigation, intuitive layouts, and responsive design help users complete bookings quickly and confidently.
+### Figma Design Specifications
+
+#### Color Styles
+- **Primary:** #34967C
+- **Secondary:** #161117
+- **Background:** #444444
+- **Text:** #000000
+- **Secondary Text:** #161117
+
+#### Typography
+- **Primary Font:** Circular, **Medium (500)**, **16px**
+- **Headings:** Circular, **Bold (700)**, **24–32px**
+- **Secondary Text:** Circular, **Book (400)**, **14px**
+
+#### Why Identify Design Properties?
+- **Consistency:** Shared tokens (colors, type) keep pages uniform.
+- **Speed:** Developers build faster with clear specs.
+- **Accessibility:** Contrast & size choices improve readability.
+- **Handoff:** Designers ↔ Devs collaborate with fewer mistakes.
+- **Branding:** Visual identity remains coherent across features.
