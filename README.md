@@ -71,5 +71,20 @@ A well-designed booking system reduces friction, increases conversion, and impro
 - **QA/Tester** — Writes test plans, runs manual/automated tests, tracks defects.
 - **DevOps Engineer** — CI/CD pipelines, environments, monitoring, deployments.
 
-> **Working solo**
+> ## UI Component Patterns
+
+### Navbar
+- **Contains:** Logo, Search Bar, User Menu (Login/Profile), Responsive Menu Toggle
+- **Considerations:** Sticky on scroll, keyboard navigation, mobile drawer
+
+### Property Card
+- **Contains:** Image, Title, Price/night, Location, Rating, Favorite Button
+- **Behavior:** Clickable to details page, responsive grid layout, lazy-loaded images
+
+### Footer
+- **Contains:** Site Links, Company Info, Social Links, Copyright
+- **Behavior:** Collapsible sections on mobile, always readable contrast
+
+
+
 
